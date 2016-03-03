@@ -2,8 +2,9 @@
 ![chimera](https://cloud.githubusercontent.com/assets/9915825/13510403/95593ac8-e190-11e5-8d9a-ff0035aada7c.jpg)
 ## Status
 work in progess...
+![ccjamz7wiaezh8w](https://cloud.githubusercontent.com/assets/9915825/13512066/c967f4a0-e198-11e5-8eb6-1d07a752ddf8.jpg)
+### OpenAPS
 
-### OpenAPS 
 Questo è parte di una serie di strumenti per supportare un'implementazione semovente bricolage basato sul disegno OpenAPS riferimento. Gli strumenti possono essere classificati come monitor (raccolta di dati sull'ambiente, e lo stato operativo dei dispositivi e / o aggregare quanti più dati rilevanti in un unico luogo), prevedere (fare previsioni su quello che dovrebbe accadere il prossimo), o il controllo (promulgare cambiamenti, e l'alimentazione più dati nuovamente dentro il monitor).
 
 L'uso di questi strumenti o qualsiasi pezzo all'interno, l'utente accetta di copyright (vedi LICENSE.txt per maggiori informazioni) e rilascia eventuali collaboratori da responsabilità.
