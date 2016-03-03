@@ -1,0 +1,27 @@
+{
+  "units": "mg/dL", 
+  "sensitivities": [
+    {
+      "i": 0, 
+      "start": "00:00:00", 
+      "sensitivity": 200, 
+      "offset": 0, 
+      "x": 0
+    }, 
+    {
+      "i": 10, 
+      "start": "05:00:00", 
+      "sensitivity": 170, 
+      "offset": 300, 
+      "x": 1
+    }, 
+    {
+      "i": 16, 
+      "start": "08:00:00", 
+      "sensitivity": 180, 
+      "offset": 480, 
+      "x": 2
+    }
+  ], 
+  "first": 1
+}
